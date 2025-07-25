@@ -1,5 +1,7 @@
-## hello
-[[ HE / HIM ]]
+<img width="512" height="512" alt="2025_07_24_122_Kleki" src="https://github.com/user-attachments/assets/3d93dd52-ca39-4831-b1bb-342e15e1c434" />
+# hello everyone this is ChrisRM_380 (voltizer)
+
+- HE / HIM 
 - youtube: https://www.youtube.com/channel/UCCme__sKWZ-lDhskVg_2j1g
 - i do c++ and c#
 - you can find the random stuffs here
