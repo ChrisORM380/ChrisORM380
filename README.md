@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## hello
+[[ HE / HIM ]]
+- youtube: https://www.youtube.com/channel/UCCme__sKWZ-lDhskVg_2j1g
+- i do c++ and c#
+- you can find the random stuffs here
 <!--
 **ChrisORM380/ChrisORM380** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
